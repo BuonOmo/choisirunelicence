@@ -1,7 +1,7 @@
 ---
-title: Terms of Service
+title: Conditions de service
 layout: default
-permalink: /terms-of-service/
+permalink: /conditions-de-service/
 
 ---
 

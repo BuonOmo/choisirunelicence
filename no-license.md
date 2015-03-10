@@ -1,13 +1,13 @@
 ---
 layout: default
 permalink: no-license/
-title: No License
+title: Aucune Licence
 ---
 
-You're under no obligation to choose a license and it's your right not to include one with your code or project. But please note that opting out of open source licenses doesn't mean you're opting out of copyright law.
+Vous n'êtes pas obligé de choisir une licence et c'est votre droit de ne pas inclure votre code ou avec votre projet. Mais se il vous plaît notez que le choix de licences open source ne signifie pas que vous perdez vos droits d'auteur.
+Vous aurez à vérifier avec votre propre conseiller juridique au sujet de votre projet particulier, mais de manière générale, l'absence d' une licence signifie que les lois de droits d'auteur s'appliquent par défaut. Cela signifie que vous conservez tous les droits sur votre code source et que personne d'autre ne peut reproduire, distribuer ou créer des œuvres dérivées de votre travail.
 
-You'll have to check with your own legal counsel regarding your particular project, but generally speaking, the absence of a license means that default copyright laws apply. This means that you retain all rights to your source code and that nobody else may reproduce, distribute, or create derivative works from your work.
+Interdire l'utilisation de votre code pourrait ne pas être ce que vous pensiez en appliquant "aucune licence". Une [Licence open source](/) autorise la ré-utilisation tout en maintenant le copyright.
+Si votre objectif est de se retirer des protections de copyright explicitement, essayez une licence "mimant" le versement dans le domaine public comme [Sans Licence](/licenses/unlicense/) ou [CC0](/licenses/cc0). Si vous souhaitez partager votre travail avec d'autrez vous devez en choisir une.
 
-Disallowing use of your code might not be what you intend by "no license." An [open-source license](/) allows reuse of your code while maintaining copyright. If your goal is to explicitly opt-out of copyright protections, try a public domain dedication like the [Unlicense](/licenses/unlicense/) or [CC0](/licenses/cc0). If you want to share your work with others, you must opt into it.
-
-Even in the absence of a license file, you may grant some rights in cases where you publish your source code to a site that requires accepting terms of service. For example, if you publish your source code in a public repository on GitHub, you have accepted the [Terms of Service](https://help.github.com/articles/github-terms-of-service) which do allow other GitHub users some rights. Specifically, you allow others to view and fork your repository.
+Même en l'absence d'un fichier de licence, vous pouvez accorder certains droits dans les cas où vous publiez votre code source sur un site qui nécessite l'acceptation des conditions de service. Par exemple, si vous publiez votre code source dans un dépôt public sur GitHub, vous avez accepté les [Conditions générales d'utilisation](https://help.github.com/articles/github-terms-of-service) qui permettent aux utilisateurs de GitHub de voir et faire une copie de votre dépôt.

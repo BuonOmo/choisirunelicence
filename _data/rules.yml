@@ -1,59 +1,59 @@
 required:
-- description: Include a copy of the license and copyright notice with the code.
-  label: License and copyright notice
+- description: Inclure une copie de la licence et rappelez les droits d'auteur avec le code.
+  label: Licence et rappel des droits d'auteur
   tag: include-copyright
-- description: Indicate significant changes made to the code.
-  label: State Changes
+- description: Indiquez les modifications importantes effectuées dans le code.
+  label: Etat des modifications
   tag: document-changes
-- description: Source code must be made available when distributing the software. In the case of LGPL, the source for the library (and not the entire program) must be made available.
-  label: Disclose Source
+- description: Le code source doit être disponible lors de la livraison du logiciel. Dans le cas de la LGPL, les sources pour la librairie (et non le programme complet) doivent être mises à disposition.
+  label: Divulgation des sources
   tag: disclose-source
-- description: Users who interact with the software via network are given the right to receive a copy of the corresponding source code.
-  label: Network Use is Distribution
+- description: Les utilisateurs du logiciel via un réseau ont le droit de recevoir une copie des sources.
+  label: Distribution par Réseau
   tag: network-use-disclose
-- description: The library may be used within a non-open-source application.
-  label: Library usage
+- description: La librairie peut être utilisée au sein d'une application propriétaire.
+  label: Utilisation en tant que librairie
   tag: library-usage
-- description: You must change the name of the software if you modify it.
-  label: Rename
+- description: Vous devez modifier le nom du logiciel si vous le modifiez.
+  label: Edition = Renommage
   tag: rename
 
 permitted:
-- description: This software and derivatives may be used for commercial purposes.
-  label: Commercial Use
+- description: Ce logiciel et dérivés peuvent être utilisées à des fins commerciales.
+  label: Utilisation commerciale
   tag: commercial-use
-- description: This software may be modified.
+- description: Ce logiciel peut être modifié.
   label: Modification
   tag: modifications
-- description: You may distribute this software.
+- description: Vous pouvez distribuer ce logiciel.
   label: Distribution
   tag: distribution
-- description: You may grant a sublicense to modify and distribute this software to third parties not included in the license.
-  label: Sublicensing
+- description: Vous pouvez accorder une sous-licence à modifier et distribuer ce logiciel à des tiers qui ne figurent pas dans la licence.
+  label: Sous Licence
   tag: sublicense
-- description: You may use and modify the software without distributing it.
-  label: Private Use
+- description: Vous pouvez utiliser et modifier le logiciel sans le distribuer.
+  label: Utilisation privée
   tag: private-use
-- description: This license provides an express grant of patent rights from the contributor to the recipient.
-  label: Patent Grant
+- description: Cette licence fournit une attribution expresse des droits de brevet du contributeur au destinataire.
+  label: Délivrance de brevets
   tag: patent-grant
 
 forbidden:
-- description: While this may be implicitly true of all licenses, this license explicitly states that you may NOT use the names, logos, or trademarks of contributors.
-  label: Use Trademark
+- description: Bien que cela puisse être implicitement vrai pour toutes les licences, cette licence stipule explicitement que vous ne pouvez utiliser les noms, logos ou marques de commerce des contributeurs.
+  label: Utilisation des marques
   tag: trademark-use
-- description: Software is provided without warranty and the software author/license owner cannot be held liable for damages.
-  label: Hold Liable
+- description: Logiciel est fourni sans garantie et le propriétaire auteur / de licence du logiciel ne peut pas être tenu responsable des dommages .
+  label: Responsabilité nulle
   tag: no-liability
-- description: You may not grant a sublicense to modify and distribute this software to third parties not included in the license.
-  label: Sublicensing
+- description: Vous ne pouvez pas accorder une sous-licence à modifier et distribuer ce logiciel à des tiers non inclus dans la licence.
+  label: Sous Licence
   tag: no-sublicense
-- description: This software may not be modified.
+- description: Ce logiciel ne peut être modifié.
   label: Modification
   tag: modifications
-- description: You may not distribute this software.
+- description: Ce logiciel ne peut être distribué.
   label: Distribution
   tag: distribution
-- description: You may not grant a sublicense to modify and distribute this software to third parties not included in the license.
-  label: Sublicensing
+- description: Vous ne pouvez pas accorder une sous-licence à modifier et distribuer ce logiciel à des tiers non inclus dans la licence.
+  label: Sous Licence
   tag: sublicense

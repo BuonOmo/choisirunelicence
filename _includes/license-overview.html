@@ -34,8 +34,10 @@
       <table class="license-rules">
         <tr>
         {% assign types = "required|permitted|forbidden" | split: "|" %}
-        {% for type in types %}
-          <th class="label">{{ type | capitalize }}</th>
+        {% assign types_fr = "requis|permis|interdit" | split: "|" %}
+
+        {% for type_fr in types_fr %}
+          <th class="label">{{ type_fr | capitalize }}</th>
         {% endfor %}
         </tr>
         <tr>

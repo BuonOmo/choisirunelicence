@@ -1,8 +1,8 @@
 ---
-title: ChooseALicense.com
+title: Choisirunelicence.com
 relative_permalinks: false
 markdown: kramdown
-url: "http://choosealicense.com"
+url: "http://choisirunelicence.com"
 
 collections:
   licenses:
@@ -34,7 +34,7 @@ exclude:
   - tests
   - assets/vendor/selectivizr/tests
   - assets/vendor/zeroclipboard/test
-  
+
 gems:
   - jekyll-sitemap
   - jekyll-redirect-from

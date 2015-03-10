@@ -1,8 +1,8 @@
 ---
-title: About
+title: A propos
 layout: default
-permalink: /about/
-title: What's this about?
+permalink: /a-propos/
+title: Pourquoi ce site?
 ---
 
 GitHub wants to help developers choose a license for their source code.
