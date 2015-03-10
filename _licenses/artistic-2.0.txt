@@ -6,9 +6,9 @@ redirect_from: /licenses/artistic/
 source: http://www.perlfoundation.org/attachment/legal/artistic-2_0.txt
 permalink: /licenses/artistic-2.0/
 
-description: Heavily favored by the Perl community, the Artistic license requires that modified versions of the software do not prevent users from running the standard version.
+description: Largement favorisé par la communauté Perl, la licence artistique exige que les versions modifiées des logiciels n'empêchent pas les utilisateurs d'exécuter la version standard.
 
-how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file. Replace [year] with the current year and [fullname] with the name (or names) of the copyright holders.
+how: Créez un fichier texte (généralement nommé LICENCE ou LICENCE.txt) à la racine de votre code source et copiez le texte de la licence dans le fichier. Remplacez [year] par l'année courante et [fullname] par le nom des "ayant droits".
 
 required:
   - include-copyright

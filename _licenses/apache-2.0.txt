@@ -7,18 +7,18 @@ redirect_from: /licenses/apache/
 
 featured: true
 
-description: A permissive license that also provides an express grant of patent rights from contributors to users.
+description: Une licence permissive qui fournit également une attribution expresse des droits de brevet des contributeurs aux utilisateurs.
 
-note: The Apache Foundation recommends taking the additional step of adding a boilerplate notice to the header of each source file. You can find the notice at the very end of the license in the appendix.
+note: La Fondation Apache recommande de plus l'ajout d'une mention de la licence l'en-tête de chaque fichier source. Vous pouvez trouver l'en-tête en annexe de la licence.
 
-how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file.
+how: Créez un fichier texte (généralement nommé LICENCE ou LICENCE.txt) à la racine de votre code source et copiez le texte de la licence dans le fichier.
 
 source: http://www.apache.org/licenses/LICENSE-2.0.html
 
 required:
   - include-copyright
   - document-changes
-  
+
 permitted:
   - commercial-use
   - modifications

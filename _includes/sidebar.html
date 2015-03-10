@@ -1,14 +1,14 @@
 <div class="sidebar">
 
-  <a href="#" data-clipboard-target="license-text" data-proofer-ignore="true" class="js-clipboard-button button">Copy license text to clipboard</a>
+  <a href="#" data-clipboard-target="license-text" data-proofer-ignore="true" class="js-clipboard-button button">Copier le texte de la licence</a>
   <div class="how-to-apply">
-    <h5>How to apply this license</h5>
+    <h5 style="text-align:center;">Comment appliquer cette licence ?</h5>
     <p>
       {{ page.how }}
     </p>
     {% if page.note %}
     <p class="note">
-      <strong>Note: </strong> {{ page.note }}
+      <strong>Remarque: </strong> {{ page.note }}
     </p>
     {% endif %}
   </div>
@@ -24,8 +24,19 @@
   <div class="license-rules license-rules-sidebar">
 
   {% assign types = "required|permitted|forbidden" | split: "|" %}
+
   {% for type in types %}
-    <h3>{{ type | capitalize }}</h3>
+
+    {% assign type_fr = 'interdit' %}
+
+    {% if type == 'required' %}
+      {% assign type_fr = 'requis' %}
+    {% endif %}
+    {% if type == 'permitted' %}
+      {% assign type_fr = 'permis' %}
+    {% endif %}
+
+    <h3>{{ type_fr | capitalize }}</h3>
     <ul class="license-{{ type }}">
       {% assign rules = site.data.rules[type] | sort: "label" %}
       {% for rule_obj in rules %}
@@ -44,7 +55,7 @@
 
   {% if page.using %}
   <div class="projects-with-license">
-    <h3>Who's using this license?</h3>
+    <h3>Qui utilise cette licence ?</h3>
     <ul>
       {% for using in page.using %}
         <li><a href="{{ using[1] }}" target="_blank">{{ using[0] }}</a></li>
