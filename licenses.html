@@ -5,17 +5,17 @@ class: license-types
 title: Licenses
 ---
 
-<h2>Featured Licenses</h2>
+<h2>Licenses les plus connues</h2>
 
 {% assign featured_licenses = site.licenses | where:"featured",true %}
 {% for license in featured_licenses | sort: 'path' %}
   {% include license-overview.html %}
 {% endfor %}
 
-<h2>Other licenses</h2>
+<h2>Autres licenses</h2>
 <p>
-  Some communities tend to have specific licenses preferred by the
-  community. For example, Perl developers often choose the Artistic License.
+  Certaines communautés semblent utiliser des licences spécifiques. Par exemple,
+  de nombreux développeurs Perl choisissent la licence Artistique.
 </p>
 {% assign licenses = site.licenses | where:"featured",false | where:"hide-from-license-list",false %}
 {% for license in licenses %}
