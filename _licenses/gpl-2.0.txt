@@ -9,13 +9,13 @@ permalink: /licenses/gpl-2.0/
 redirect_from: /licenses/gpl-v2/
 source: http://www.gnu.org/licenses/gpl-2.0.txt
 
-description: GPL is the most widely used free software license and has a strong copyleft requirement. When distributing derived works, the source code of the work must be made available under the same license. There are multiple variants of the GPL, each with different requirements.
+description: GPL est la licence libre le plus largement utilisée et a une forte exigence copyleft. Lors de la distribution des œuvres dérivées, le code source de l'œuvre doit être disponible sous la même licence. Il existe plusieurs variantes de la licence GPL, chacune avec des exigences différentes .
 
 featured: true
 
-how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file.
+how: Créez un fichier texte (généralement nommé LICENCE ou LICENCE.txt) à la racine de votre code source et copiez le texte de la licence dans le fichier.
 
-note: The Free Software Foundation recommends taking the additional step of adding a boilerplate notice to the top of each file. The boilerplate can be found at the end of the license.
+note: La Free Software Foundation recommande de plus l'ajout d'une mention de la licence l'en-tête de chaque fichier source. Vous pouvez trouver l'en-tête en annexe de la licence.
 
 required:
   - include-copyright

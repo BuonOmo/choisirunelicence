@@ -43,7 +43,7 @@ forbidden:
   label: Utilisation des marques
   tag: trademark-use
 - description: Logiciel est fourni sans garantie et le propriétaire auteur / de licence du logiciel ne peut pas être tenu responsable des dommages .
-  label: Responsabilité nulle
+  label: Responsabilité de l'auteur
   tag: no-liability
 - description: Vous ne pouvez pas accorder une sous-licence à modifier et distribuer ce logiciel à des tiers non inclus dans la licence.
   label: Sous Licence

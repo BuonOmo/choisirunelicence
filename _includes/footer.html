@@ -1,7 +1,7 @@
       <footer class="site-footer clearfix">
         <nav>
-          <a href="/about/">A propos</a>
-          <a href="/terms-of-service/">Conditions de service</a>
+          <a href="/a-propos/">A propos</a>
+          <a href="/conditions-de-service/">Conditions de service</a>
         </nav>
         <p>
           Si vous avez des questions ou des problèmes concernant une licence, le mieux est de faire appel à un avocat <br>
@@ -15,7 +15,15 @@
       </footer>
 
     </div> <!-- /container -->
-
+    {% if page.collection == "licenses" or page.class == "license-types" %}
+    <script src="/assets/vendor/jquery/jquery.min.js"></script>
+    <script src="/assets/vendor/qtip2/jquery.qtip.min.js"></script>
+    <script src="/assets/vendor/zeroclipboard/ZeroClipboard.min.js"></script>
+    <script>
+      window.annotations = {{ site.data.rules | jsonify }};
+    </script>
+    <script src="/assets/js/app.js"></script>
+    {% endif %}
 
 
     <script>

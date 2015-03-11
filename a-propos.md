@@ -5,34 +5,46 @@ permalink: /a-propos/
 title: Pourquoi ce site?
 ---
 
-GitHub wants to help developers choose a license for their source code.
+Ce site a pour vocation d'aider les auteurs à choisir une licence pour leurs créations.
 
-If you already know what you're doing and have a license you prefer to use, that's great! We're not here to change your mind. But if you are bewildered by the large number of OSS license choices, maybe we can help.
+Si vous avez déjà une licence de prédilection et que vous savez en quoi elle consiste, c'est parfait! Nous n'avons pas pour objectif d'inciter à utiliser
+telle ou telle licence.
 
-## Not comprehensive
+Mais si vous êtes perdus dans le choix des nombreuses licences disponible, vous trouverez ici quelques informations utiles.
 
-This site is not a comprehensive directory of open source licenses.  We think there are too many options, which adds to the confusion. On the homepage, we break it down into just three licenses. The vast majority of projects will likely be fine choosing from one of these three. Just in case you have specific needs not covered by those three, we also highlight a [few other licenses to consider](/licenses/).
 
-### Additional resources
+## Exhaustif (mais pas trop)
 
-* [Open Source Initiative](http://opensource.org/licenses/) - comprehensive list of open source licenses
-* [Comparison of free and open-source software licenses](http://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses) on Wikipedia
-* [License differentiator](http://www.oss-watch.ac.uk/apps/licdiff/) from [OSS Watch](http://www.oss-watch.ac.uk/)
-* [TLDRLegal](https://tldrlegal.com/)
+Ce site n'a pas vocation à devenir un catalogue exhaustif de toutes les licences open source. Nous pensons que trop d'options pour ajouter de la confusion.
+
+C'est pourquoi la première page nous proposons un choix entre les trois principales licences utilisées sur la majorité des projets: pour des besoins plus
+particuliers, vous pouvez accéder à notre catalogue de [licences](/licenses/)
+
+### Ressources additionnelles
+
+* [Open Source Initiative](http://opensource.org/licenses/) - liste exhaustive de toutes les licences "open source" au sens de l'OSI
+* [Différences entre licences libres et open source](https://medium.com/france/qu-est-ce-que-l-open-source-1b09362bea44)
+
 {: .bullets}
 
-### Tools
+### Outils
 
 * [gem-licenses](https://github.com/dblock/gem-licenses)
 * [LicenseFinder](https://github.com/pivotal/LicenseFinder)
-* [License Maven Plugin](http://mojo.codehaus.org/license-maven-plugin/)
+* [Maven Plugin License](http://mojo.codehaus.org/license-maven-plugin/)
 * [AddALicense.com](http://www.addalicense.com/)
 {: .bullets}
 
-## Help us improve it
+## Aidez nous à l'améliorer
 
-Choosealicense.com isn't just about open source, the site itself is open source as well. See something you think could be done better? Feel free to [fork the project](https://github.com/github/choosealicense.com) on GitHub and submit a pull request. We'd welcome your improvements.
+Choisirunelicence.com traite d'open source mais il est également open source. Vous voyez quelque chose à améliorer ?
 
-## Disclaimer
+Vous êtes libre de [forker le projet](https://github.com/mickaelandrieu/choisirunelicense.com) sur GitHub et soumettez nous vos suggestions: nous adorons les contributeurs!
 
-We are not lawyers. Well, most of us anyway. It is not the goal of this site to provide legal advice. The goal of this site is to provide a starting point to help you make an informed choice by providing information on popular open source licenses. If you have any questions regarding the right license for your code or any other legal issues relating to it, it's always best to consult with a professional.
+## "Disclaimer"
+
+Nous ne sommes pas des avocats et ce site n'a aucune vocation à fournir un conseil légal.
+
+Le but de ce site est de fournir un point de départ pour vous aider à faire un choix éclairé en fournissant des informations sur les licences open source populaires.
+
+Si vous avez des questions concernant la législation d'une licence pour votre code ou d'autres questions juridiques liées à celle-ci, il est toujours préférable de consulter un professionnel.
