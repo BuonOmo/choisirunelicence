@@ -1,7 +1,7 @@
 ---
 layout: license
-title: Creative Commons Zero v1.0 Universal
-nickname: CC0 1.0 Universal
+title: Creative Commons Zero v1.0 Universelle
+nickname: CC0 1.0 Universelle
 category: Public Domain Dedication
 tab-slug: cc0
 permalink: /licenses/cc0/
@@ -11,9 +11,11 @@ filename: LICENSE
 
 source: http://creativecommons.org/publicdomain/zero/1.0/
 
-description: The <a href="http://creativecommons.org/publicdomain/zero/1.0/">Creative Commons CC0 Public Domain Dedication</a> waives copyright interest in any a work you've created and dedicates it to the world-wide public domain. Use CC0 to opt out of copyright entirely and ensure your work has the widest reach. As with the Unlicense and typical software licenses, CC0 disclaims warranties. CC0 is very similar to the Unlicense.
+description: La licence <a href="http://creativecommons.org/publicdomain/zero/1.0/">Creative Commons CC0 d'inscription dans le Domaine Public</a> permet de renoncer aux droits d'auteur patrimoniaux de toute œuvre que vous avez créé et se rapporche au plus près du domaine public dans le monde. Utilisez CC0 supprime entièrement les droits d'auteur patrimoniaux et assure à votre travail une diffusion plus large. Comme avec la licence de "Non Licence" (Unlicense) et les licences de logiciels typiques, CC0 ne fournit aucune garanties et décline toute responsabilité de l'auteur. CC0 est très similaire à la Unlicense.
 
 how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the CC0 into the file.
+
+note: En France, il n'est pas possible pour un auteur de se séparer de ses droits moraux: ils sont inaliénables. Pour en savoir plus sur ce qu'est le domaine public en France, consultez cet [article](https://medium.com/france/qu-est-ce-que-l-open-source-1b09362bea44).
 
 required:
 
