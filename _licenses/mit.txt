@@ -7,9 +7,9 @@ source: http://opensource.org/licenses/MIT
 
 featured: true
 
-description: A permissive license that is short and to the point. It lets people do anything with your code with proper attribution and without warranty.
+description: Une licence permissive qui est court et va au but. Elle permet aux gens de faire ce qu'ils veulent avec votre code tant qu'ils vous en retournent l'attribution et ne vous tiennent pas responsables.
 
-how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file. Replace [year] with the current year and [fullname] with the name (or names) of the copyright holders.
+how: Créez un fichier texte (généralement nommé LICENCE ou LICENCE.txt) à la racine de votre code source et copiez le texte de la licence dans le fichier. Remplacez [year] par l'année courante et [fullname] par le nom des "ayant droits".
 
 required:
   - include-copyright
