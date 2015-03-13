@@ -2,8 +2,8 @@
 title: Apache License 2.0
 category: Apache
 layout: license
-permalink: /licenses/apache-2.0/
-redirect_from: /licenses/apache/
+permalink: /licences/apache-2.0/
+redirect_from: /licences/apache/
 
 featured: true
 

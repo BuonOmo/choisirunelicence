@@ -4,7 +4,7 @@ title: Creative Commons Zero v1.0 Universelle
 nickname: CC0 1.0 Universelle
 category: Public Domain Dedication
 tab-slug: cc0
-permalink: /licenses/cc0/
+permalink: /licences/cc0/
 class: license-types
 hide-from-license-list: true
 filename: LICENSE

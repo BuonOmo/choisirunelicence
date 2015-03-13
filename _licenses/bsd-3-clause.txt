@@ -5,7 +5,7 @@ nickname: Nouvelle BSD
 category: BSD
 tab-slug: bsd-3
 hide-from-license-list: true
-permalink: /licenses/bsd-3-clause/
+permalink: /licences/bsd-3-clause/
 
 description: Une licence permissive qui a 2 déclinaisons, la <a href="/licenses/bsd">clause BSD 2</a> et <a href="/licenses/bsd-3-clause">la clause BSD 3</a>. Toutes deux ont très peu de différences par rapport à la licence MIT.
 

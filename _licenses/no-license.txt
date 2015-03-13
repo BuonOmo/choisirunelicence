@@ -1,15 +1,15 @@
 ---
 layout: license
-permalink: /licenses/no-license/
+permalink: /licences/no-license/
 category: No License
 class: license-types
-title: No License
+title: Aucune Licence
 
-description: You retain all rights and do not permit distribution, reproduction, or derivative works. You may grant some rights in cases where you publish your source code to a site that requires accepting terms of service. For example, publishing code in a public repository on GitHub requires that you allow others to view and fork your code.
+description: Vous conservez tous les droits et ne permettez pas à la distribution, la reproduction ou les œuvres dérivées. Vous pouvez accorder certains droits dans le cas où vous publiez votre code source sur un site qui nécessite l'acceptation de conditions de service. Par exemple, la publication dans un dépôt public sur GitHub nécessite que vous permettiez aux autres de voir et de "forkez" (faire une copie) de votre dépôt.
 
-note: This option may be subject to the Terms Of Use of the site where you publish your source code.
+note: Cette option peut être soumise aux Conditions d'utilisation du site où vous publiez votre code source .
 
-how: Simply do nothing, though including a copyright notice is recommended.
+how: Il suffit de ne rien faire, bien qu'inclure une mention d'avis de droit d'auteur soit recommandé.
 
 required:
   - include-copyright
