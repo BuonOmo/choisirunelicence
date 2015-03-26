@@ -1,0 +1,23 @@
+---
+layout: default
+permalink: licences/
+class: license-types
+title: Licenses
+---
+
+<h2>Licences en vedette</h2>
+
+{% assign featured_licences = site.licences | where:"featured",true %}
+{% for licence in featured_licences | sort: 'path' %}
+  {% include licence-overview.html %}
+{% endfor %}
+
+<h2>Autres licences</h2>
+<p>
+  Certaines communautés ont tendance à choiser des licences spécifiques.
+  Par exemple les développeurs Perl ont tendance à utiliser la licence Artistique.
+</p>
+{% assign licences = site.licences | where:"featured",false | where:"hide-from-license-list",false %}
+{% for licence in licences %}
+  {% include licence-overview.html %}
+{% endfor %}
