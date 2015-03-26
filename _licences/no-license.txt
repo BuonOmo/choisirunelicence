@@ -1,5 +1,5 @@
 ---
-layout: license
+layout: licence
 permalink: /licences/no-license/
 category: No License
 class: license-types

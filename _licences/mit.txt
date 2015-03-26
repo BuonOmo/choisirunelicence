@@ -1,6 +1,6 @@
 ---
-layout: license
-title: MIT License
+layout: licence
+title: Licence MIT
 category: MIT
 permalink: /licences/mit/
 source: http://opensource.org/licenses/MIT

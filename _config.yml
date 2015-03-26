@@ -5,17 +5,17 @@ markdown: kramdown
 url: "http://choisirunelicence.com"
 
 collections:
-  licenses:
+  licences:
     output: true
-    permalink: /licenses/:path/
+    permalink: /licences/:path/
 
 defaults:
   -
     scope:
       path: ""
-      type: "licenses"
+      type: "licences"
     values:
-      layout: license
+      layout: licence
       featured: false
       "hide-from-license-list": false
 

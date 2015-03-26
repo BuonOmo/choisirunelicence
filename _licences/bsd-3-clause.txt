@@ -1,5 +1,5 @@
 ---
-layout: license
+layout: licence
 title: La licence BSD 3 dit "Nouvelle" ou "Revisitée"
 nickname: Nouvelle BSD
 category: BSD
@@ -7,7 +7,7 @@ tab-slug: bsd-3
 hide-from-license-list: true
 permalink: /licences/bsd-3-clause/
 
-description: Une licence permissive qui a 2 déclinaisons, la <a href="/licenses/bsd">clause BSD 2</a> et <a href="/licenses/bsd-3-clause">la clause BSD 3</a>. Toutes deux ont très peu de différences par rapport à la licence MIT.
+description: Une licence permissive qui a 2 déclinaisons, la <a href="/licences/bsd">clause BSD 2</a> et <a href="/licences/bsd-3-clause">la clause BSD 3</a>. Toutes deux ont très peu de différences par rapport à la licence MIT.
 
 how: Créez un fichier texte (généralement nommé LICENCE ou LICENCE.txt) à la racine de votre code source et copiez le texte de la licence dans le fichier. Remplacez [year] par l'année courante et [fullname] par le nom des "ayant droits".
 

@@ -1,10 +1,10 @@
 ---
-title: GNU General Public License v2.0
+title: Licence GNU General Public v2.0
 nickname: GNU GPL v2.0
 category: GPL
 tab-slug: gpl-v2
 hide-from-license-list: false
-layout: license
+layout: licence
 permalink: /licences/gpl-2.0/
 redirect_from: /licences/gpl-v2/
 source: http://www.gnu.org/licenses/gpl-2.0.txt

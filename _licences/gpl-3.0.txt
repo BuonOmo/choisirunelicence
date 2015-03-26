@@ -1,10 +1,10 @@
 ---
-title: GNU General Public License v3.0
+title: Licence GNU General Public v3.0
 nickname: GNU GPL v3.0
 category: GPL
 tab-slug: gpl-v3
 hide-from-license-list: true
-layout: license
+layout: licence
 permalink: /licences/gpl-3.0/
 redirect_from: /licences/gpl-v3/
 source: http://www.gnu.org/licenses/gpl-3.0.txt

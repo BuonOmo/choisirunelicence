@@ -1,5 +1,5 @@
 ---
-layout: license
+layout: licence
 title: Creative Commons Zero v1.0 Universelle
 nickname: CC0 1.0 Universelle
 category: Public Domain Dedication
@@ -15,7 +15,7 @@ description: La licence <a href="http://creativecommons.org/publicdomain/zero/1.
 
 how: Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the CC0 into the file.
 
-note: En France, il n'est pas possible pour un auteur de se séparer de ses droits moraux: ils sont inaliénables. Pour en savoir plus sur ce qu'est le domaine public en France, consultez cet [article](https://medium.com/france/qu-est-ce-que-l-open-source-1b09362bea44).
+note: En France, il n'est pas possible pour un auteur de se séparer de ses droits moraux, ils sont inaliénables. Pour en savoir plus sur ce qu'est le domaine public en France, consultez cet [article](https://medium.com/france/qu-est-ce-que-l-open-source-1b09362bea44).
 
 required:
 

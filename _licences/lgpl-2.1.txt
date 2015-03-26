@@ -1,6 +1,6 @@
 ---
-layout: license
-title: GNU Lesser General Public License v2.1
+layout: licence
+title: Licence GNU Lesser General Public v2.1
 nickname: GNU LGPL v2.1
 category: LGPL
 tab-slug: lgpl-v2_1

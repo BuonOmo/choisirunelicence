@@ -1,5 +1,5 @@
 ---
-layout: license
+layout: licence
 title: Mozilla Public License 2.0
 category: Mozilla
 redirect_from: /licences/mozilla/
