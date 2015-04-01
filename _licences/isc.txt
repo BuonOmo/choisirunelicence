@@ -1,7 +1,7 @@
 ---
-layout: license
-title: ISC License
-permalink: /licenses/isc/
+layout: licence
+title: Licence ISC
+permalink: /licences/isc/
 source: http://opensource.org/licenses/isc-license
 category: BSD
 tab-slug: isc

@@ -18,7 +18,7 @@ Mais si vous êtes perdus dans le choix des nombreuses licences disponible, vous
 Ce site n'a pas vocation à devenir un catalogue exhaustif de toutes les licences open source. Nous pensons que trop d'options pour ajouter de la confusion.
 
 C'est pourquoi la première page nous proposons un choix entre les trois principales licences utilisées sur la majorité des projets: pour des besoins plus
-particuliers, vous pouvez accéder à notre catalogue de [licences](/licenses/)
+particuliers, vous pouvez accéder à notre catalogue de [licences](/licences/)
 
 ### Ressources additionnelles
 
@@ -39,7 +39,7 @@ particuliers, vous pouvez accéder à notre catalogue de [licences](/licenses/)
 
 Choisirunelicence.com traite d'open source mais il est également open source. Vous voyez quelque chose à améliorer ?
 
-Vous êtes libre de [forker le projet](https://github.com/mickaelandrieu/choisirunelicense.com) sur GitHub et soumettez nous vos suggestions: nous adorons les contributeurs!
+Vous êtes libre de [forker le projet](https://github.com/mickaelandrieu/choisirunelicence) sur GitHub et soumettez nous vos suggestions: nous adorons les contributeurs!
 
 ## "Disclaimer"
 

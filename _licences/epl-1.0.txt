@@ -1,9 +1,9 @@
 ---
-layout: license
-title: Eclipse Public License 1.0
+layout: licence
+title: Licence Eclipse Public 1.0
 category: Eclipse
-redirect_from: /licenses/eclipse/
-permalink: /licenses/epl-1.0/
+redirect_from: /licences/eclipse/
+permalink: /licences/epl-1.0/
 
 description: Cette license libre à copyleft faible offre la possibilité de commercialiser des programmes, de déposer un brevet libre de droit et d'utiliser le logiciel dans des projets sous d'autres licenses, y compris commerciales. L’EPL est soumise au droit de l’Etat de New York et au droit de la propriété intellectuelle américain.
 

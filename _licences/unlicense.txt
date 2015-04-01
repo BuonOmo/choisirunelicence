@@ -1,9 +1,9 @@
 ---
-layout: license
+layout: licence
 title: The Unlicense
 category: Public Domain Dedication
 tab-slug: unlicense
-permalink: /licenses/unlicense/
+permalink: /licences/unlicense/
 class: license-types
 filename: UNLICENSE
 

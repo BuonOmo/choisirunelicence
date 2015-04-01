@@ -1,12 +1,12 @@
 ---
-title: GNU General Public License v3.0
+title: Licence GNU General Public v3.0
 nickname: GNU GPL v3.0
 category: GPL
 tab-slug: gpl-v3
 hide-from-license-list: true
-layout: license
-permalink: /licenses/gpl-3.0/
-redirect_from: /licenses/gpl-v3/
+layout: licence
+permalink: /licences/gpl-3.0/
+redirect_from: /licences/gpl-v3/
 source: http://www.gnu.org/licenses/gpl-3.0.txt
 
 description: GPL est la licence libre le plus largement utilisée et a une forte exigence copyleft. Lors de la distribution des œuvres dérivées, le code source de l'œuvre doit être disponible sous la même licence. Il existe plusieurs variantes de la licence GPL, chacune avec des exigences différentes .

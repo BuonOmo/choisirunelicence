@@ -1,4 +1,4 @@
-# Choose a License Web Site [![Build Status](https://travis-ci.org/github/choosealicense.com.png?branch=gh-pages)](https://travis-ci.org/github/choosealicense.com)
+# "Choisir une licence" Web Site [![Build Status](https://travis-ci.org/github/choosealicense.com.png?branch=gh-pages)](https://travis-ci.org/github/choosealicense.com)
 
 Like a Choose Your Own Adventure site, but only much less interesting.
 
@@ -8,7 +8,7 @@ A lot of repositories on GitHub.com don't have a license. GitHub provides
 a license chooser, but if you don't know anything about licenses, how are you
 supposed to make an informed decision?
 
-[ChooseALicense.com](http://www.choosealicense.com "Choose A Licence website") is designed to help people make an informed decision about
+[ChooseALicense.com](http://www.choisirunelicense.com "Choisirune licence website") is designed to help people make an informed decision about
 licenses.
 
 # Immediate Goals
@@ -23,6 +23,8 @@ licenses out there. We're going to have to filter that down to a
 small list of those that matter.
 
 # Run It On Your Machine
+
+*You need to have at least ruby > 2.0 installed on your machine.*
 
 ```bash
 git clone https://github.com/github/choosealicense.com.git
@@ -77,3 +79,5 @@ The content of this project itself is licensed under the
 [Creative Commons Attribution 3.0 license](http://creativecommons.org/licenses/by/3.0/us/deed.en_US),
 and the underlying source code used to format and display that content
 is licensed under the [MIT license](http://opensource.org/licenses/mit-license.php).
+
+This is a (proud) fork of the project from github [ChooseALicence](http://www.choosealicence.com)

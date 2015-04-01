@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: no-license/
+permalink: no-licence/
 title: Aucune Licence
 ---
 
