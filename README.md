@@ -1,4 +1,4 @@
-# "Choisir une licence" Web Site [![Build Status](https://travis-ci.org/github/choosealicense.com.png?branch=gh-pages)](https://travis-ci.org/github/choosealicense.com)
+# "Choisir une licence" Web Site
 
 Like a Choose Your Own Adventure site, but only much less interesting.
 
