@@ -7,7 +7,7 @@ title: Aucune Licence
 
 description: Vous conservez tous les droits et ne permettez pas à la distribution, la reproduction ou les œuvres dérivées. Vous pouvez accorder certains droits dans le cas où vous publiez votre code source sur un site qui nécessite l'acceptation de conditions de service. Par exemple, la publication dans un dépôt public sur GitHub nécessite que vous permettiez aux autres de voir et de "forkez" (faire une copie) de votre dépôt.
 
-note: Cette option peut être soumise aux Conditions d'utilisation du site où vous publiez votre code source .
+note: Cette option peut être soumise aux conditions d'utilisation du site où vous publiez votre code source.
 
 how: Il suffit de ne rien faire, bien qu'inclure une mention d'avis de droit d'auteur soit recommandé.
 
