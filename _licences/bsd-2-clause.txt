@@ -8,7 +8,7 @@ hide-from-license-list: true
 redirect_from: /licences/bsd/
 permalink: /licences/bsd-2-clause/
 
-description: Une licence permissive qui a 2 déclinaisons, la <a href="/licences/bsd">clause BSD 2</a> et <a href="/licences/bsd-3-clause">la clause BSD 3</a>. Toutes deux ont très peu de différences par rapport à la licence MIT.
+description: Une licence permissive qui a deux déclinaisons, la <a href="/licences/bsd">clause BSD 2</a> et <a href="/licences/bsd-3-clause">la clause BSD 3</a>. Toutes deux ont très peu de différences par rapport à la licence MIT.
 
 how: Créez un fichier texte (généralement nommé LICENCE ou LICENCE.txt) à la racine de votre code source et copiez le texte de la licence dans le fichier. Remplacez [year] par l'année courante et [fullname] par le nom des "ayant droits".
 
